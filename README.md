@@ -1,2 +1,2 @@
-Todo Application
+React JS Todo Application
 -----
